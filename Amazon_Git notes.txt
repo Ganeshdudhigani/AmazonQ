@@ -1,0 +1,7 @@
+#Generate a terraform template to create an ECS instance using best practice like "code modularity" and "state management"
+
+git clone https://gihub.com/ganeshdudhigani/AmazonQ.git
+cd AmazonQ/
+git add.
+git commit -m
+git push -u
